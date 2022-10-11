@@ -3,15 +3,15 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>vCard - About</title>
+    <title>Resume of Abror Aliboyev</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="format-detection" content="telephone=no"/>
     <meta name="format-detection" content="address=no"/>
-    <meta name="author" content="ArtTemplate" />
-    <meta name="description" content="vCard" />
+    <meta name="author" content="Abror Aliboyev" />
+    <meta name="description" content="Welcome to my Resume. This resume is for recruiters and HR managers who want to know me better" />
 
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/vendors/bootstrap.min.css') }}"/>

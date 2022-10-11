@@ -61,7 +61,7 @@
                                     <a href="#" title="laravel"><img width="100" height="100" class="logo-client" src="{{ asset('images/technologies/laravel.png') }}" alt="Logo" /></a>
                                 </figure>
                                 <figure class="swiper-slide">
-                                    <a href="#" title="laravel"><img width="100" height="100" class="logo-client" src="{{ asset('images/technologies/laravel.png') }}" alt="Logo" /></a>
+                                    <a href="#" title="laravel"><img width="100" height="100" class="logo-client" src="{{ asset('images/technologies/flask.png') }}" alt="Logo" /></a>
                                 </figure>
                                 <figure class="swiper-slide">
                                     <a href="#" title="fastapi"><img width="100" height="100" class="logo-client" src="{{ asset('images/technologies/fastapi.png') }}" alt="Logo" /></a>
